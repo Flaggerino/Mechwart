@@ -23,7 +23,7 @@
 
 <body> <!-- érdemi információ -->
   <p>Helló világ!!!</p> <!-- p és /p tagek bekezdésekre szedik a webldal szövegét -->
-  <p> udioedueropfheropre9e <BR> adasds <!-- sortörés a bekezdésen belül --> </p>
+  <p> udioedueropfheropre9e <BR> adasds <!-- BR = sortörés a bekezdésen belül --> </p>
   <hr> <!-- vízszintes vonalat húz -->
 </body>
 </html>
