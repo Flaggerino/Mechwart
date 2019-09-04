@@ -8,6 +8,8 @@
 2: dokumentum fej <head></head> -nem megjelenítendő informáicók (a google robot számára)
 3: dokumentum törzs <body></body>
 
+Példa: 
+
 
 <!doctype html>
 <html>
@@ -31,5 +33,11 @@
   <strong> erős kiemelés </strong> <!-- strong és b között grafikai különbség nincs, viszont jelentésben más -->
   <u>aláhúzás/underline</u> <!-- egymásba ágyazhatóak -->
   <p>az ár: <s>8000</s> 7999 </p> <!-- elavult információ/"áthúzás" -->
+  <a href="namostez.html" target="_blank">kattintható link</a> a másik weblapra file alapján <!-- tetszőleges már létező html filenév/a blank egy új böngészőtabban fog megnyílni "_self" "önmagára nyitja" -->
+  <p><a href="http://www.index.hu" target="_parent">szülő ablakban nyitja meg</a> <!-- "_top" - a legelsőben nyitja meg
+  <p>Tegnap olvastam a <cite>Budapest ostroma</cite> címe könyvet</p> <!-- google-nek segít műcímek/címek megtalálásában -->
+  <p><q>A kocka el van vetve</q>Caesar</p> <!-- q és /q = idézet -->
+  <p>A <dfn>HTML</dfn> jelentése hypertext markup language</p> <!-- dfn /dfn = definíciót jelölünk meg -->
+  <p> A <aabr title="Magyar állam vasút">MÁV</abbr></p> <!-- mozaikszót jelöl, segít a keresőmotornak azonosítani a két dolgot -->
 </body>
 </html>
