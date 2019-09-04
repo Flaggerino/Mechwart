@@ -25,5 +25,11 @@
   <p>Helló világ!!!</p> <!-- p és /p tagek bekezdésekre szedik a webldal szövegét -->
   <p> udioedueropfheropre9e <BR> adasds <!-- BR = sortörés a bekezdésen belül --> </p>
   <hr> <!-- vízszintes vonalat húz -->
+  <i>dőlt betű</i>
+  <em>hangsúlyos kiemelés</em>
+  <b> félkövér </b>
+  <strong> erős kiemelés </strong> <!-- strong és b között grafikai különbség nincs, viszont jelentésben más -->
+  <u>aláhúzás/underline</u> <!-- egymásba ágyazhatóak -->
+  <p>az ár: <s>8000</s> 7999 </p> <!-- elavult információ/"áthúzás" -->
 </body>
 </html>
