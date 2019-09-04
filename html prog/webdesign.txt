@@ -1,0 +1,29 @@
+<tag> nyitó 
+</tag> záró
+<tag/> egysoros
+
+
+3 nagy rész:
+1: dokumentumtipus -milyen szabvánnyal készült pl.: <!doctype html>
+2: dokumentum fej <head></head> -nem megjelenítendő informáicók (a google robot számára)
+3: dokumentum törzs <body></body>
+
+
+<!doctype html>
+<html>
+<head>
+  <title>a weboldal címe(böngészősor)</title>
+  <meta name="author" content="a weboldal készítője"> <!-- -ki csinálta a weblapot -->
+  <meta name="description" content="ez a weboldal erről szól"> <!-- -weblap leírás -->
+  <meta name="keywords" content="weboldal, készítés, html nyelv, stb."> <!-- -ezek a kulcsszavak alapján keres a google pl -->
+  <meta http-equiv="refresh" content="60"> <!-- -újrafrissíti magát 60 másodpercenként -->
+  <meta http-equiv="content-type" content="text/html" charset="UTF-8"> <!-- -kódtábla megadás -->
+<!-- megjegyzés több soros akár -->
+</head>
+
+<body> <!-- érdemi információ -->
+  <p>Helló világ!!!</p> <!-- p és /p tagek bekezdésekre szedik a webldal szövegét -->
+  <p> udioedueropfheropre9e <BR> adasds <!-- sortörés a bekezdésen belül --> </p>
+  <hr> <!-- vízszintes vonalat húz -->
+</body>
+</html>
