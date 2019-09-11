@@ -39,5 +39,23 @@ Példa:
   <p><q>A kocka el van vetve</q>Caesar</p> <!-- q és /q = idézet -->
   <p>A <dfn>HTML</dfn> jelentése hypertext markup language</p> <!-- dfn /dfn = definíciót jelölünk meg -->
   <p> A <aabr title="Magyar állam vasút">MÁV</abbr></p> <!-- mozaikszót jelöl, segít a keresőmotornak azonosítani a két dolgot -->
+  <pre>
+   é   á                  q                       t
+                 r                   t - úg y írja le a szöveget. a ho. gy én leí ro o o o o o o      om
+                 <code class="Language-JavaScript">
+                  function Osszead(){
+                  
+                  }
+                  </code>
+  </pre>
+  <p> <var>x</var>=<var>y</var>+<var>z</var> </p>
+  <p> a számítógép kiírta, hogy <samp>tedd be a cd-t</samp> </p>
+  <p>a program megszakításához a <kbd>ctrl</kbd> + <kbd>C</kbd> KOMBINÁCIÓT HASZNÁJUK</p>
+  <p> a html könnyű nyelv <small>ha sokat gyakorlunk</small></p>
+  <p>X<sup>2</sup>O<sub>2</sub></p>
+  <p>asfe4giudkwurel asjirujhfovhwoirkofheofhdo ifdifgpeujf ofzhseofbwe ops  hwqoipwshdqsod ishdof hgqssod hooeuzfosw pwshbwpfwd9fkwoe oeiowerpwepjhf ppdiffwepud pwhfőpfiuwod owdki9ohwpodpo <wbr>ohdspguodfopwe9doföewpöeöfiwfiewüw wo9fuewüfi ds9eöo öwf wöe rgpi wefisd fodow wofodpdfjk osdio sdüfpoé düüog wfügpd wpef dwepd wedpowo wppepw   pdodipr  dooiro piorpsd orodi pro orp iepruweo poeipdiw p2ö opw9</p> <!-- a wbr feltételes sortörés -->
+  <p>az okj vizsgánk két év múlva <time datetime="2021-05-01T10:00:00">tavasszal lesz </p>
 </body>
 </html>
+f(x)=x<sup>4</sup>+x<sup>3</sup>+x<sup>2</sup>-4
+S+HNO<sub>3</sub>=H<sub>2</sub>SO<sub>4</sub>+NO<sub>2</sub>+H<sub>2</sub>O
