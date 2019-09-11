@@ -55,6 +55,7 @@ Példa:
   <p>X<sup>2</sup>O<sub>2</sub></p>
   <p>asfe4giudkwurel asjirujhfovhwoirkofheofhdo ifdifgpeujf ofzhseofbwe ops  hwqoipwshdqsod ishdof hgqssod hooeuzfosw pwshbwpfwd9fkwoe oeiowerpwepjhf ppdiffwepud pwhfőpfiuwod owdki9ohwpodpo <wbr>ohdspguodfopwe9doföewpöeöfiwfiewüw wo9fuewüfi ds9eöo öwf wöe rgpi wefisd fodow wofodpdfjk osdio sdüfpoé düüog wfügpd wpef dwepd wedpowo wppepw   pdodipr  dooiro piorpsd orodi pro orp iepruweo poeipdiw p2ö opw9</p> <!-- a wbr feltételes sortörés -->
   <p>az okj vizsgánk két év múlva <time datetime="2021-05-01T10:00:00">tavasszal lesz </p>
+  <img src="14k.jpg <!-- vagy https://i.redd.it/kgezihktdwl31.jpg -->" width="400px" alt="cyberpunk 2077" longdesc="namostez.html">
 </body>
 </html>
 f(x)=x<sup>4</sup>+x<sup>3</sup>+x<sup>2</sup>-4
