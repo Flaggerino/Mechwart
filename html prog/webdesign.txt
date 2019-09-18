@@ -57,6 +57,22 @@ Példa:
   <p>az okj vizsgánk két év múlva <time datetime="2021-05-01T10:00:00">tavasszal lesz </p>
   <img src="14k.jpg <!-- vagy https://i.redd.it/kgezihktdwl31.jpg -->" width="400px" alt="cyberpunk 2077" longdesc="namostez.html">
 </body>
-</html>
 f(x)=x<sup>4</sup>+x<sup>3</sup>+x<sup>2</sup>-4
 S+HNO<sub>3</sub>=H<sub>2</sub>SO<sub>4</sub>+NO<sub>2</sub>+H<sub>2</sub>O
+<h1>legfelső cím</h1>
+<h2>na valami</h2> <!-- h3 h4 h5 és h6 is van -->
+<ul>
+ <li>valami</li>
+ <li>mlég valami</li>
+ <li> megint már valami</li>
+   <ul>
+    <li>egymásba ágyazhatóak</li>
+   </ul>
+</ul>
+<ol> <!-- reversed start="10" -->
+ <li>egy</li>
+ <li>kettő</li>
+ <li>stb</li>
+</ol>
+
+</html>
