@@ -2,8 +2,23 @@
 enable - beléptet a priv. exec módba 
 -------------priv. exec módban pl switch#----------
 conf t - terminal konfigurálása
+copy running-config startup-config - elmenti a beállításokat
 --------------configurációs módban pl switch(config)#------------
+hostname ______ -nevet ad a konfigurált eszköznek
+banner motd #üzenet# - belépési üzenet létehozása
 enable password _____ -jelszó megadása a priv. exec módba lépéshez
 enable secret ______ - titkos jelszó -||-
 service password-encryption - jelszavak titkosítása
+interface vlan 1 -interface config belépés
 line console 0
+line vty 0
+----------interface config pl switch(config-if)#---------
+ip address valami.valami.valmi.valami maszk.maszk.maszk.maszk
+noshutdown
+-----console config-------
+password ______ - jelszó megadása
+login - belépést bekapcsolja
+--------vty config-telnet config--------
+password ______ - jelszó megadása
+login - belépést bekapcsolja
+
