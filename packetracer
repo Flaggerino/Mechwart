@@ -1,0 +1,9 @@
+-----------------user módban- pl switch>---------------
+enable - beléptet a priv. exec módba 
+-------------priv. exec módban pl switch#----------
+conf t - terminal konfigurálása
+--------------configurációs módban pl switch(config)#------------
+enable password _____ -jelszó megadása a priv. exec módba lépéshez
+enable secret ______ - titkos jelszó -||-
+service password-encryption - jelszavak titkosítása
+line console 0
