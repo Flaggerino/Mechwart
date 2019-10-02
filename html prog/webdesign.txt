@@ -1,6 +1,7 @@
 <tag> nyitó 
 </tag> záró
 <tag/> egysoros
+fonts.google.com
 
 
 3 nagy rész:
@@ -74,5 +75,21 @@ S+HNO<sub>3</sub>=H<sub>2</sub>SO<sub>4</sub>+NO<sub>2</sub>+H<sub>2</sub>O
  <li>kettő</li>
  <li>stb</li>
 </ol>
+
+<table>
+<caption> táblázat címe</caption>
+<thead>
+<tr>
+<td> a tr a sor a td egy cella</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>valami</td> <td> mégvalami</td>
+<td colspan="2">összevont cella</td>
+<td rowspan="2">függőlegesen összevont cella</td>
+</tr>
+</table>
+<p style="text-align: center; font-family: font_size: 10vw; font-style: oblique ; font-weight: 500"; font-variant: small-caps;> diruzpfeohfiosjdgufehowiwihfosidhfowkheofksheifááááááááááááááziiiiiiiiiuztsgcdgcysgfkbnvhhtdhzfjzhfjzfjgsrafddcxgjhglkjélkáéláéáopp</p> <!-- text align: center/left/right/justify font family: serif/sans-serif/monospace/cursive/fantasy ezen belül: 'Times New Roman' pl: font-family: 'Times New Roman',serif: itt az elsődleges a times new roman font-size: px/%/vw font-style: oblique/italic -->
 
 </html>
