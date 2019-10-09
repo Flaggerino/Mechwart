@@ -90,6 +90,23 @@ S+HNO<sub>3</sub>=H<sub>2</sub>SO<sub>4</sub>+NO<sub>2</sub>+H<sub>2</sub>O
 <td rowspan="2">függőlegesen összevont cella</td>
 </tr>
 </table>
-<p style="text-align: center; font-family: font_size: 10vw; font-style: oblique ; font-weight: 500"; font-variant: small-caps;> diruzpfeohfiosjdgufehowiwihfosidhfowkheofksheifááááááááááááááziiiiiiiiiuztsgcdgcysgfkbnvhhtdhzfjzhfjzfjgsrafddcxgjhglkjélkáéláéáopp</p> <!-- text align: center/left/right/justify font family: serif/sans-serif/monospace/cursive/fantasy ezen belül: 'Times New Roman' pl: font-family: 'Times New Roman',serif: itt az elsődleges a times new roman font-size: px/%/vw font-style: oblique/italic -->
+<p style="text-align: center; font-family: font_size: 10vw; font-style: oblique ; font-weight: 500"; font-variant: small-caps;> 
 
+diruzpfeohfiosjdgufehowiwihfosidhfowkheofksheifááááááááááááááziiiiiiiiiuztsgcdgcysgfkbnvhhtdhzfjzhfjzfjgsrafddcxgjhglkjélkáéláéáopp</p> 
+<!-- text align: center/left/right/justify font family: serif/sans-serif/monospace/cursive/fantasy ezen belül: 'Times New Roman' pl: 
+font-family: 'Times New Roman',serif: itt az elsődleges a times new roman font-size: px/%/vw font-style: oblique/italic -->
+<p style="text-align: justify; letter-spacing: 5px; word-spacing: 5px; line-height: 2; text-transform: uppercase <!-- lowercase/capitalize --> ">
+oooooooooooooooooooooooooooooooowefdovwue9ösidv98egsdiuope98zPWEFHUÖ98WEFHÖ89EHFOIW8Ö9ÜHIOSDFHUIo9ehfose
+sefsfffffffffffffffffffffffffffffffffffeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefoefoekfi9ttgeifesg</p>
+<p style="text-align: justify; text-shadow: green 2px 2px 2px; color: #B7ACF3; background-color: 'navy'; text-decoration: underline <!-- overline-felülhúzás/line-through --> >
+ADASDASDASDOWPKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA </p>
+<table style="width: 100% border: 2px solid black; background-color: red; background-image: url("index.jpg"); background-repeat: no-
+repeat">
+<tr style="height:200px"><td style="vertical-align: top <!-- /bottom --> ">szöveg</td><td style="horizontal-align: center">szöveg 2</td></tr>
+</table>
 </html>
