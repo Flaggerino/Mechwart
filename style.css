@@ -1,0 +1,25 @@
+
+.zld
+	{
+		background-color: Chartreuse;
+		color: Chartreuse;
+		width: 100px;
+	}
+
+.vast
+	{
+		text-decoration: underline;
+		font-weight: bold;
+		line-height: 1.5;
+	}
+
+.dlt{
+		font-style: italic;
+	}
+
+td {
+	width: 350px;
+}
+table{
+	font-family: 'Roboto', sans-serif;"
+}
