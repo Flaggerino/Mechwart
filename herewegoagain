@@ -1,0 +1,132 @@
+create database autoker;
+
+
+use database autoker;
+CREATE TABLE `autok` (
+  `rendsz` char(7) COLLATE utf8_hungarian_ci NOT NULL,
+  `marka` varchar(30) COLLATE utf8_hungarian_ci NOT NULL,
+  `ev` int(11) NOT NULL,
+  `motor` int(11) NOT NULL,
+  `ar` int(11) NOT NULL,
+  `ajtok` int(11) NOT NULL,
+  `seb` int(11) NOT NULL,
+  `loero` int(11) NOT NULL,
+  `fogy` decimal(4,2) NOT NULL,
+  `szin` varchar(30) COLLATE utf8_hungarian_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_hungarian_ci;
+
+
+
+use autoker;
+INSERT INTO `autok` (`rendsz`, `marka`, `ev`, `motor`, `ar`, `ajtok`, `seb`, `loero`, `fogy`, `szin`) VALUES
+('BPF-361', 'Toyota', 1989, 1764, 701040, 3, 180, 92, '9.00', 'bordó'),
+('BZO-080', 'Suzuki', 1989, 1937, 745490, 5, 190, 107, '9.00', 'fehér'),
+('CCZ-429', 'Volvo', 1993, 855, 643890, 4, 130, 47, '5.00', 'piros'),
+('CKM-212', 'Volvo', 1991, 2240, 1050290, 3, 190, 117, '13.00', 'bordó'),
+('CKO-847', 'Volvo', 1992, 2288, 1183640, 5, 170, 152, '11.00', 'szürke'),
+('DZA-047', 'Porsche', 1994, 1722, 1127760, 4, 160, 90, '8.00', 'fehér'),
+('EAM-019', 'Toyota', 1992, 1056, 681990, 4, 150, 58, '6.00', 'szürke'),
+('EIX-616', 'Suzuki', 1996, 1260, 1021080, 4, 140, 63, '6.00', 'fehér'),
+('F-139', 'Porsche', 1988, 704, 396240, 4, 120, 46, '5.00', 'fehér'),
+('FCS-742', 'Toyota', 1996, 936, 824230, 4, 130, 55, '5.00', 'fehér'),
+('FFO-663', 'Fiat', 1993, 1431, 908050, 5, 170, 95, '8.00', 'piros'),
+('GBT-367', 'Porsche', 1988, 1635, 585470, 5, 160, 86, '9.00', 'fehér'),
+('GDU-434', 'Volvo', 1995, 1422, 1047750, 5, 160, 71, '7.00', 'zöld'),
+('GMK-209', 'Lada', 1989, 2134, 795020, 3, 200, 106, '13.00', 'piros'),
+('GUM-026', 'Lada', 1993, 1764, 1060450, 5, 180, 88, '10.00', 'piros'),
+('GVS-480', 'Ford', 1994, 1815, 1176020, 4, 160, 95, '10.00', 'szürke'),
+('HCJ-266', 'Opel', 1992, 2505, 1271270, 4, 200, 125, '12.00', 'szürke'),
+('HLT-422', 'Suzuki', 1992, 2070, 1094740, 5, 170, 138, '10.00', 'piros'),
+('HNV-873', 'Volvo', 1992, 680, 529590, 3, 130, 35, '4.00', 'fekete'),
+('HWH-951', 'Lada', 1991, 1056, 628650, 5, 140, 70, '7.00', 'szürke'),
+('IIB-542', 'Ford', 1989, 2024, 767080, 4, 190, 106, '12.00', 'zöld'),
+('JNI-228', 'Ford', 1993, 935, 680720, 4, 130, 62, '6.00', 'fekete'),
+('JPE-067', 'Toyota', 1995, 2265, 1518920, 5, 190, 133, '9.00', 'piros'),
+('JPL-169', 'BMW', 1992, 2548, 1289050, 5, 220, 149, '12.00', 'fehér'),
+('JPP-159', 'Suzuki', 1996, 1970, 1454150, 3, 160, 115, '10.00', 'metál'),
+('KGR-277', 'Lada', 1995, 824, 713740, 3, 130, 41, '5.00', 'fehér'),
+('KPZ-163', 'Opel', 1996, 1440, 1131570, 3, 150, 80, '8.00', 'bordó'),
+('KQR-752', 'Volvo', 1994, 1630, 1082040, 3, 160, 108, '9.00', 'fehér'),
+('KVH-454', 'Fiat', 1992, 1176, 731520, 5, 140, 78, '6.00', 'piros'),
+('LIS-587', 'Volvo', 1992, 1905, 1027430, 4, 170, 112, '10.00', 'szürke'),
+('MJW-446', 'Suzuki', 1989, 2670, 932180, 5, 190, 133, '13.00', 'piros'),
+('MQX-057', 'Lada', 1996, 1596, 1226820, 5, 160, 106, '8.00', 'piros'),
+('NAO-856', 'Toyota', 1989, 738, 440690, 5, 130, 43, '5.00', 'szürke'),
+('NAT-583', 'Fiat', 1995, 1452, 1064260, 5, 150, 72, '8.00', 'bordó'),
+('OHK-357', 'Volvo', 1993, 1360, 875030, 3, 160, 90, '7.00', 'piros'),
+('OXQ-812', 'Toyota', 1994, 910, 716280, 3, 140, 53, '5.00', 'piros'),
+('PEV-192', 'Fiat', 1994, 1378, 953770, 5, 150, 72, '7.00', 'piros'),
+('PLD-570', 'Mercedes', 1992, 944, 637540, 3, 130, 62, '6.00', 'bordó'),
+('PVT-496', 'Lada', 1990, 2119, 899160, 5, 170, 105, '11.00', 'kék'),
+('QRX-387', 'Lada', 1996, 1540, 1192530, 4, 150, 90, '8.00', 'piros'),
+('QUJ-333', 'BMW', 1993, 1495, 937260, 5, 160, 93, '9.00', 'piros'),
+('QXW-413', 'Suzuki', 1990, 752, 482600, 3, 120, 44, '5.00', 'szürke'),
+('RAJ-046', 'Opel', 1994, 2184, 1362710, 3, 190, 121, '9.00', 'zöld'),
+('RRF-878', 'Mercedes', 1991, 2236, 1049020, 3, 200, 139, '10.00', 'piros'),
+('SLG-612', 'Ford', 1994, 720, 619760, 4, 130, 42, '5.00', 'bordó'),
+('SMR-619', 'Volvo', 1992, 1305, 783590, 4, 150, 65, '8.00', 'metál'),
+('SNM-195', 'Fiat', 1994, 2132, 1336040, 3, 180, 118, '10.00', 'bordó'),
+('TSW-078', 'Suzuki', 1995, 1089, 862330, 3, 140, 57, '5.00', 'piros'),
+('UNW-285', 'Suzuki', 1995, 2145, 1451610, 4, 170, 119, '11.00', 'kék'),
+('VDA-686', 'Toyota', 1992, 3000, 1473200, 3, 220, 187, '13.00', 'szürke'),
+('VHE-395', 'Suzuki', 1993, 2325, 1316990, 4, 190, 155, '10.00', 'fehér'),
+('VOT-315', 'Suzuki', 1992, 1562, 887730, 3, 160, 91, '8.00', 'fekete'),
+('WLM-832', 'Porsche', 1994, 1872, 1203960, 3, 160, 124, '10.00', 'piros'),
+('YGK-579', 'BMW', 1993, 1287, 842010, 3, 150, 64, '8.00', 'kék'),
+('YUN-466', 'Lada', 1990, 1794, 800100, 4, 160, 112, '9.00', 'fehér'),
+('ZKD-524', 'Lada', 1993, 855, 643890, 3, 140, 47, '5.00', 'zöld'),
+('ZMG-090', 'Opel', 1988, 1695, 598170, 4, 150, 99, '9.00', 'fehér'),
+('ZQM-968', 'Opel', 1991, 1485, 781050, 5, 170, 99, '9.00', 'bordó');
+
+
+
+------------------------LEKÉRDEZÉSEK--------------------------------------
+
+1. Kérdezze le az összes autó összes mezőjének értékét!
+-select * from autok;
+
+2. Kérdezze le az összes autó rendszámát, márkáját, árát!
+-select rendsz, marka, ar from autok;
+
+
+Lekérdezések WHERE záradékkal
+-----------------------------
+
+3. Kérdezze le a Fiat márkájú autók összes oszlopát! 
+-select * from autok where marka='fiat';
+
+4. Kérdezze le a Fiat márkájú autók rendszámát, színét, árát!
+-select rendsz, szin, ar from autok where marka='fiat';
+
+5. Kérdezze le a piros színű autók márkáját, rendszámát, színét, árát!
+-select marka, rendsz, szin, ar from autok where szin='piros';
+
+6. Kérdezze le a Ford vagy Opel márkájú autók rendszámát, márkáját, színét, árát!
+-select marka, rendsz, szin, ar from autok where marka='opel' OR marka ='ford';
+
+7. Kérdezze le az 500000 Ft-nál olcsóbb autók rendszámát, márkáját, színét, árát!
+-select rendsz, marka, szin, ar from autok where ar<500000;
+
+8. Kérdezze le az 500000 Ft-nál olcsóbb és fehér színű autók rendszámát, márkáját, színét, árát!
+-select rendsz, marka, szin, ar from autok where ar<500000 and szin='fehér';
+
+Lekérdezés rendezéssel
+----------------------
+
+9. Kérdezze le az összes autó rendszámát, márkáját,  színét, árát, ár szerint növekvő sorrendben!
+-select rendsz, marka, szin, ar from autok order by ar asc;
+
+10. Kérdezze le az összes autó márkáját, rendszámát, színét, árát, ár szerint csökkenő sorrendben!
+-select rendsz, marka, szin, ar from autok order by ar desc;
+
+11. Kérdezze le az összes Lada márkájú autó márkáját, rendszámát, színét, árát, ár szerint csökkenő sorrendben!
+-select rendsz, marka, szin, ar from autok where marka='Lada' order by ar desc;
+
+Lekérdezés rendezéssel, az eredmény korlátozásával
+--------------------------------------------------
+
+12. Jelenítse meg a legdrágább kocsi összes adatát! (Először rendezzen, utána korlátozza az eredményt)
+-select * from autok order by ar desc limit 1;
+
+13. Jelenítse meg a legolcsóbb Suzuki márkájú autó összes adatát!
+-select * from autok where marka='suzuki' order by ar asc limit 1;
