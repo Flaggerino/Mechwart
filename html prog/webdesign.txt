@@ -22,6 +22,11 @@ Példa:
   <meta http-equiv="refresh" content="60"> <!-- -újrafrissíti magát 60 másodpercenként -->
   <meta http-equiv="content-type" content="text/html" charset="UTF-8"> <!-- -kódtábla megadás -->
 <!-- megjegyzés több soros akár -->
+P{ text align: center;}
+Table{
+.kekhatter{background-color: blue;}
+.zoldhatter{background-color: green;} <!-- a td-knél a class=''-résszel hozzuk elő -->
+}
 </head>
 
 <body> <!-- érdemi információ -->
