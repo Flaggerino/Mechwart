@@ -34,4 +34,10 @@ table{
 	a:link {color: Aqua;}
 	a:visited {color: DeepPink;}
 	a:hover {color: Gold;}
-	a:active {color: GreenYellow;}*/
+	a:active {color: GreenYellow;}
+ul li li {color: red;}
+body > p{color: blue;}
+p+p {color: red;}
+p~p {color: red;}
+<span>egy szó színét változtataja</span>
+*/
