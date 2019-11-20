@@ -1,0 +1,230 @@
+p{line-height: 15px}
+.div1{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	position: absolute;
+	top: 70px;
+	left: 140px;
+	text-align: center;
+	color: white;
+}
+.div2{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 70px;
+	left: 180px;
+	text-align: center;
+	color: white;
+}
+.div3{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	position: absolute;
+	top: 70px;
+	left: 220px;
+	text-align: center;
+	color: white;
+}
+.div4{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 105px;
+	left: 120px;
+	text-align: center;
+	color: white;
+}
+.div5{
+	opacity: 55%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	position: absolute;
+	top: 105px;
+	left: 160px;
+	text-align: center;
+	color: white;
+}
+.div6{
+	opacity: 55%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	position: absolute;
+	top: 105px;
+	left: 200px;
+	text-align: center;
+	color: white;
+}
+.div7{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 105px;
+	left: 240px;
+	text-align: center;
+	color: white;
+}
+.div8{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	position: absolute;
+	top: 140px;
+	left: 105px;
+	text-align: center;
+	color: white;
+}
+.div9{
+	opacity: 55%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	position: absolute;
+	top: 140px;
+	left: 145px;
+	text-align: center;
+	color: white;
+}
+.div10{
+	opacity: 80%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 140px;
+	left: 185px;
+	text-align: center;
+	color: white;
+	z-index: 1;
+}
+.div11{
+	opacity: 55%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	position: absolute;
+	top: 140px;
+	left: 225px;
+	text-align: center;
+	color: white;
+}
+.div12{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	position: absolute;
+	top: 140px;
+	left: 265px;
+	text-align: center;
+	color: white;
+}
+.div13{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 175px;
+	left: 120px;
+	text-align: center;
+	color: white;
+}
+.div14{
+	opacity: 55%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	position: absolute;
+	top: 175px;
+	left: 160px;
+	text-align: center;
+	color: white;
+}
+.div15{
+	opacity: 55%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	position: absolute;
+	top: 175px;
+	left: 200px;
+	text-align: center;
+	color: white;
+}
+.div16{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 175px;
+	left: 240px;
+	text-align: center;
+	color: white;
+}
+.div17{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	position: absolute;
+	top: 210px;
+	left: 140px;
+	text-align: center;
+	color: white;
+}
+.div18{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 210px;
+	left: 180px;
+	text-align: center;
+	color: white;
+}
+.div19{
+	opacity: 30%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	position: absolute;
+	top: 210px;
+	left: 220px;
+	text-align: center;
+	color: white;
+}
