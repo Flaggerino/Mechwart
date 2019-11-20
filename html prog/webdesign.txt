@@ -113,5 +113,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 <table style="width: 100% border: 2px solid black; background-color: red; background-image: url("index.jpg"); background-repeat: no-
 repeat">
 <tr style="height:200px"><td style="vertical-align: top <!-- /bottom --> ">szöveg</td><td style="horizontal-align: center">szöveg 2</td></tr>
+<div> különálló dobozok </div> <!-- float: left/right-tal igazíthatjuk .. z-index-szel térben mozgahatjuk a left: és top: pixelek megadásával .. opacity: áttetszőség -->
 </table>
 </html>
